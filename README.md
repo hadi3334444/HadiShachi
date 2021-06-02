@@ -1,4 +1,5 @@
-#HadiShachi Paper
+# HadiShachi Paper
+
 This Respository contains the Matlab code for comparing 13 methods of image thresholding. Almost all of them are entropy based such as:
 * Shannon Entropy
 * Tsallis Entropy
